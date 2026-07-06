@@ -1,6 +1,6 @@
 {
 	"name": "which-command",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Find the absolute path to a command's executable, like the Unix `which` command",
 	"license": "MIT",
 	"repository": "sindresorhus/which-command",
